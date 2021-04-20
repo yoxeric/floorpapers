@@ -1,10 +1,11 @@
-var list = [
+{
+"list": [
 {
   "img":"url",
   "cat":"lofi"
 },{
   "img":"url",
-  "cat":"lofi"
+  "cat":["lofi","dark"]
 }
 ]
 
