@@ -2,28 +2,28 @@
   "wops":[
 {
    "img":"https://i.pinimg.com/originals/b8/52/c0/b852c0318a4a41eabc330d4c8780046e.jpg",
-   "cat":["lofi"]
+   "cat":"lofi"
 },{
    "img":"https://i.pinimg.com/originals/9b/9a/b8/9b9ab8627f67e3b6a854c02db889c609.jpg",
-   "cat":["vapor"]
+   "cat":"vapor"
 },{
    "img":"https://i.pinimg.com/originals/4e/24/bf/4e24bf8eac00ee8ad56bbdad8874c06b.jpg",
-   "cat":["sky"]
+   "cat":"sky"
 },{
    "img":"https://i.pinimg.com/originals/ee/c2/64/eec26479e0acfa95128d727889f533d2.jpg",
-   "cat":["quote"]
+   "cat":"quote"
 },{
    "img":"https://i.pinimg.com/originals/c9/31/c3/c931c38d8223452f1c7f72785a74cc86.jpg",
-   "cat":["dark"]
+   "cat":"dark"
 },{
    "img":"https://i.pinimg.com/originals/d1/50/1b/d1501bb9c5104771a08b46e02dbb5028.jpg",
-   "cat":["art"]
+   "cat":"art"
 },{
    "img":"https://i.pinimg.com/originals/51/71/17/517117ed34786c1e497363d86679a6f2.jpg",
-   "cat":["space"]
+   "cat":"space"
 },{
    "img":"https://i.pinimg.com/originals/ac/a8/fc/aca8fc26c76ba45bf05bbabc25765f51.jpg",
-   "cat":["water"]
+   "cat":"water"
 }
 ]
 }
