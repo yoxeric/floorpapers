@@ -1,5 +1,4 @@
-{
-  "wops":[
+{"wops":[
 {
    "img":"https://i.pinimg.com/originals/99/59/c5/9959c55fef4aefde0bd4b166297c8036.jpg",
    "cat":"lofi"
@@ -1503,9 +1502,6 @@
    "img":"https://i.pinimg.com/originals/48/06/84/48068408c2a31d63839363d443ccbf76.jpg",
    "cat":"art"
 },{
-   "img":"https://i.pinimg.com/originals/62/57/61/625761be1ed721cae40f46b59e846",
-   "cat":"art"
-},{
    "img":"https://i.pinimg.com/736x/0f/7c/a0/0f7ca02d48a35b6920e9afa5ff6c393b.jpg",
    "cat":"art"
 },{
@@ -1657,8 +1653,4 @@
 },{
    "img":"https://i.pinimg.com/564x/77/cc/bc/77ccbcfc73b3dbffc8952fcb34683fc3.jpg",
   "cat":"water"
-}
-]
-}
-
-
+}]}
