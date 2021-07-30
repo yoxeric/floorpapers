@@ -1,5 +1,5 @@
 {"wops":[{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Lee_Sin_OriginalCentered.jpg/revision/latest?cb=20180414203354",
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Lee_Sin_OriginalCentered.jpg",
    "cat":"leesin"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lucian_0.jpg",
@@ -11,10 +11,10 @@
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_0.jpg",
    "cat":"Ezreal"
 },{
-   "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kaisa_0.jpg",
+   "img":"https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/97/Skin_Splash_Classic_Kai%27Sa.jpg",
    "cat":"KaiSa"
 },{
-   "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_0.jpg",
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_OriginalCentered.jpg",
    "cat":"Ahri"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
@@ -44,7 +44,7 @@
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_0.jpg",
    "cat":"Miss Fortune"
 },{
-   "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_0.jpg",
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Jinx_OriginalCentered.jpg",
    "cat":"Jinx"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vi_0.jpg",
@@ -413,7 +413,7 @@
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sona_0.jpg",
    "cat":"Sona"
 },{
-   "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Wukong_0.jpg",
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Wukong_OriginalCentered.jpg",
    "cat":"Wukong"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gnar_0.jpg",
@@ -436,6 +436,7 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_0.jpg",
    "cat":"Corki"
-}
-]
-}
+},{
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Aphelios_OriginalCentered.jpg",
+   "cat":"Aphelios"
+}]}
