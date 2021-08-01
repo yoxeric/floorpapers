@@ -1,4 +1,34 @@
-{"wops":[{
+{"wops":[{ 
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Akshan_OriginalCentered.jpg",
+   "cat":"Akshan"
+},{
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Gwen_OriginalCentered.jpg",
+   "cat":"Gwen"
+},{
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Viego_OriginalCentered.jpg",
+   "cat":"Viego"
+},{
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Rell_OriginalCentered.jpg",
+   "cat":"Rell"
+},{
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Seraphine_OriginalCentered.jpg",
+   "cat":"Seraphine"
+},{
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Samira_OriginalCentered.jpg",
+   "cat":"Samira"
+},{
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Yone_OriginalCentered.jpg",
+   "cat":"Yone"
+},{
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Lillia_OriginalCentered.jpg",
+   "cat":"Lillia"
+},{
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Sett_OriginalCentered.jpg",
+   "cat":"Sett"
+},{   
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Aphelios_OriginalCentered.jpg",
+   "cat":"Aphelios"
+},{     
    "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Lee_Sin_OriginalCentered.jpg",
    "cat":"leesin"
 },{
@@ -436,7 +466,4 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_0.jpg",
    "cat":"Corki"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Aphelios_OriginalCentered.jpg",
-   "cat":"Aphelios"
 }]}
