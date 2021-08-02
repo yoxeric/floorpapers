@@ -29,9 +29,6 @@
    "cat":"Gwen"
 },{
    
-   "img":"https://cdnb.artstation.com/p/assets/images/images/036/280/293/4k/zeronis-6821802a-fbe3-4527-bbd2-d2e36e0c861b.jpg?1617215599",
-   "cat":"Gwen"
-},{
    "img":"https://cdna.artstation.com/p/assets/images/images/036/279/954/4k/zeronis-5a4e7fa6-88d2-4b05-b3bd-05eb1c1b39b6.jpg?1617214881",
    "cat":"Gwen"
 },{
@@ -96,13 +93,7 @@
    "img":"https://cdnb.artstation.com/p/assets/images/images/038/033/691/4k/alissi-l-captura-de-pantalla-2021-05-25-a-la-s-18-27-30.jpg?1621986508",
    "cat":"Viego"
 },{
-   "img":"https://cdna.artstation.com/p/assets/images/images/039/504/334/4k/anna-perci-viego-06.jpg?1626109997",
-   "cat":"Viego"
-},{
    "img":"https://cdnb.artstation.com/p/assets/images/images/038/033/691/4k/alissi-l-captura-de-pantalla-2021-05-25-a-la-s-18-27-30.jpg?1621986508",
-   "cat":"Viego"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/039/504/334/4k/anna-perci-viego-06.jpg?1626109997",
    "cat":"Viego"
 },{
    "img":"https://cdnb.artstation.com/p/assets/images/images/033/656/909/large/viviane-matsukuma-viego-by-vmat.jpg?1610217210",
@@ -124,9 +115,6 @@
    "cat":"Viego"
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/040/075/124/large/mauu-viego-art-mauuarts.jpg?1627799079",
-   "cat":"Viego"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/039/504/334/4k/anna-perci-viego-06.jpg?1626109997",
    "cat":"Viego"
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/039/504/334/4k/anna-perci-viego-06.jpg?1626109997",
@@ -214,9 +202,6 @@
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/036/667/454/4k/noah-thatcher-death-sworn-yone-final.jpg?1618302391",
    "cat":"Yone"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/038/730/547/4k/hicham-habchi-poster-1.jpg?1623897862",
-   "cat":"Yone jinx Evelynn ekko"
 },{
    "img":"https://cdnb.artstation.com/p/assets/images/images/029/132/763/large/joelin-tan-spirit-blossom-thresh-and-yasu-and-yone-small.jpg?1596555725",
    "cat":"Yone"
@@ -1813,6 +1798,9 @@
    "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Jinx_GloriousSkin_WR.jpg",
    "cat":"Jinx"
    
+ },{
+   "img":"https://cdnb.artstation.com/p/assets/images/images/038/730/547/4k/hicham-habchi-poster-1.jpg?1623897862",
+   "cat":"jinx ekko"
 },{
    "img":"https://i.pinimg.com/736x/19/dd/c7/19ddc736ab008d029fd6af51e694edd5.jpg",
    "cat":"Jinx"
@@ -4201,8 +4189,8 @@
    "cat":"Lissandra"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lissandra_4.jpg",
-
    "cat":"Lissandra"
+   
 },{
    "img":"https://i.pinimg.com/736x/69/53/e0/6953e0a798738587b135dc684a80a6de.jpg",
    "cat":"Lissandra"
@@ -4298,8 +4286,8 @@
    "cat":"Annie"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_12.jpg",
-
    "cat":"Annie"
+   
 },{
    "img":"https://scontent-amt2-1.cdninstagram.com/vp/71919216fd5760a5868fd8d639e2b45a/5E4570F0/t51.2885-15/e35/74361210_387396035473495_1852363178899010621_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjE2MjkyMjY4Nzk2ODkzNDE3OA%3D%3D.2",
    "cat":"Annie"
@@ -4461,8 +4449,9 @@
    "cat":"Sejuani"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_8.jpg",
-
    "cat":"Sejuani"
+   
+   
 },{
    "img":"https://i.pinimg.com/originals/95/28/1f/95281f0864eb3d4cbf74be2ed7ed396c.jpg",
    "cat":"Sejuani"
