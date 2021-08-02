@@ -29,6 +29,9 @@
    "cat":"Gwen"
 },{
    
+   "img":"https://cdnb.artstation.com/p/assets/images/images/036/280/293/4k/zeronis-6821802a-fbe3-4527-bbd2-d2e36e0c861b.jpg?1617215599",
+   "cat":"Gwen"
+},{
    "img":"https://cdna.artstation.com/p/assets/images/images/036/279/954/4k/zeronis-5a4e7fa6-88d2-4b05-b3bd-05eb1c1b39b6.jpg?1617214881",
    "cat":"Gwen"
 },{
@@ -93,7 +96,13 @@
    "img":"https://cdnb.artstation.com/p/assets/images/images/038/033/691/4k/alissi-l-captura-de-pantalla-2021-05-25-a-la-s-18-27-30.jpg?1621986508",
    "cat":"Viego"
 },{
+   "img":"https://cdna.artstation.com/p/assets/images/images/039/504/334/4k/anna-perci-viego-06.jpg?1626109997",
+   "cat":"Viego"
+},{
    "img":"https://cdnb.artstation.com/p/assets/images/images/038/033/691/4k/alissi-l-captura-de-pantalla-2021-05-25-a-la-s-18-27-30.jpg?1621986508",
+   "cat":"Viego"
+},{
+   "img":"https://cdna.artstation.com/p/assets/images/images/039/504/334/4k/anna-perci-viego-06.jpg?1626109997",
    "cat":"Viego"
 },{
    "img":"https://cdnb.artstation.com/p/assets/images/images/033/656/909/large/viviane-matsukuma-viego-by-vmat.jpg?1610217210",
@@ -115,6 +124,9 @@
    "cat":"Viego"
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/040/075/124/large/mauu-viego-art-mauuarts.jpg?1627799079",
+   "cat":"Viego"
+},{
+   "img":"https://cdna.artstation.com/p/assets/images/images/039/504/334/4k/anna-perci-viego-06.jpg?1626109997",
    "cat":"Viego"
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/039/504/334/4k/anna-perci-viego-06.jpg?1626109997",
@@ -172,6 +184,9 @@
    "img":"https://cdna.artstation.com/p/assets/images/images/029/877/024/large/mohammed-aldabi-samira.jpg?1598907607",
    "cat":"Samira"
 },{
+   "img":"https://cdnb.artstation.com/p/assets/images/images/033/815/109/large/lorena-winkler-samira.jpg?1610637302",
+   "cat":"Samira"
+},{
    "img":"https://cdna.artstation.com/p/assets/images/images/031/616/992/large/yara-haddx-small.jpg?1604123243",
    "cat":"Samira"
 },{
@@ -199,6 +214,9 @@
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/036/667/454/4k/noah-thatcher-death-sworn-yone-final.jpg?1618302391",
    "cat":"Yone"
+},{
+   "img":"https://cdnb.artstation.com/p/assets/images/images/038/730/547/4k/hicham-habchi-poster-1.jpg?1623897862",
+   "cat":"Yone jinx Evelynn ekko"
 },{
    "img":"https://cdnb.artstation.com/p/assets/images/images/029/132/763/large/joelin-tan-spirit-blossom-thresh-and-yasu-and-yone-small.jpg?1596555725",
    "cat":"Yone"
@@ -321,13 +339,13 @@
    
    
    
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Aphelios_OriginalSkin.jpg",
+   
+   
+   
+   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Aphelios_OriginalCentered.jpg",
    "cat":"Aphelios"
 },{ 
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Aphelios_LunarBeastSkin.jpg",
-   "cat":"Aphelios"
-},{ 
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Aphelios_NightbringerSkin.jpg",
+   "img":"https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/Skin_Splash_Lunar_Beast_Aphelios.jpg",
    "cat":"Aphelios"
 },{ 
    
@@ -488,14 +506,8 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_14.jpg",
    "cat":"Kaisa"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Kai%27Sa_PrestigeKDAALLOUTSkin.jpg",
-   "cat":"Kaisa"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Kai%27Sa_KDAALLOUTSkin.jpg",
-   "cat":"Kaisa"
-   
             
+           
 },{
    "img":"https://cdnb.artstation.com/p/assets/images/images/032/860/497/4k/kudos-productions-mbar-021-sustainsocialpost-kaisa-001.jpg?1607682183",
    "cat":"Kaisa" 
@@ -632,13 +644,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_17.jpg",
    "cat":"Ahri"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Ahri_KDAALLOUTSkin.jpg",
-   "cat":"Ahri"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Ahri_SpiritBlossomSkin.jpg",
-   "cat":"Ahri"
-   
    
 },{
    "img":"https://cdnb.artstation.com/p/assets/images/images/032/860/509/4k/kudos-productions-mbar-024-sustainsocialpost-ahri-001.jpg?1607682196",
@@ -920,9 +925,7 @@
 },{
    "img":"https://i.pinimg.com/originals/75/20/7e/75207ee0897b523b241462f967d399a7.jpg",
    "cat":"Akali"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Akali_KDAALLOUTSkin.jpg",
-   "cat":"Akali"
+            
        
 },{
    "img":"https://cdnb.artstation.com/p/assets/images/images/033/405/689/large/cindy-feng-kda1-1300.jpg?1609490988",
@@ -1091,9 +1094,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_7.jpg",
    "cat":"Evelynn"
-},{
-          "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_7.jpg",
-   "cat":"Evelynn"
    
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/033/405/690/large/cindy-feng-kda2-1300.jpg?1609490995",
@@ -1164,17 +1164,7 @@
 },{
    "img":"https://cdnb.artstation.com/p/assets/images/images/007/720/019/large/funx-.jpg?1508078591",
    "cat":"Evelynn"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Evelynn_SugarRushCentered.jpg",
-   "cat":"Evelynn"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Evelynn_KDAALLOUTSkin.jpg",
-   "cat":"Evelynn"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Evelynn_KDAALLOUTSkin.jpg",
-   "cat":"Evelynn"
 
-   
 
 },{
    "img":"https://pbs.twimg.com/media/DrWFTzFU4AAmqh4?format=jpg&name=medium",
@@ -1291,11 +1281,8 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_12.jpg",
    "cat":"Katarina"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Katarina_BattleQueenSkin.jpg",
-   "cat":"Katarina"
             
-         
+            
             
 },{
    "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7fe38982-209d-4b5c-807a-cfd856163830/d8jmje1-d2080fc6-87c4-4c58-ba19-3203f377fe3f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdmZTM4OTgyLTIwOWQtNGI1Yy04MDdhLWNmZDg1NjE2MzgzMFwvZDhqbWplMS1kMjA4MGZjNi04N2M0LTRjNTgtYmExOS0zMjAzZjM3N2ZlM2YuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SN6aqA4PS0xqdnW_5sGGrq306TfdXwrBbzrWANH70ms",
@@ -1787,17 +1774,8 @@
    "cat":"Jinx"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_20.jpg",
+
    "cat":"Jinx"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Jinx_PROJECTSkin.jpg",
-   "cat":"Jinx"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Jinx_GloriousSkin_WR.jpg",
-   "cat":"Jinx"
-   
- },{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/038/730/547/4k/hicham-habchi-poster-1.jpg?1623897862",
-   "cat":"jinx ekko"
 },{
    "img":"https://i.pinimg.com/736x/19/dd/c7/19ddc736ab008d029fd6af51e694edd5.jpg",
    "cat":"Jinx"
@@ -2060,17 +2038,8 @@
    "cat":"Vi"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_12.jpg",
+
    "cat":"Vi"
-},{   
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/02PZ008T2-full.png",
-   "cat":"Vi"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/02PZ008-full.png",
-   "cat":"Vi"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/b/b1/Vi_PsyOpsSkin.jpg",
-   "cat":"Vi"
-   
 },{
    "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce1a1bef-e987-4297-9878-33b4ddfb8f36/d8045wk-85961569-df42-4c58-9b2c-176b694a3269.jpg/v1/fill/w_896,h_892,q_70,strp/league_of_legends_vi_by_lsy_kalata_d8045wk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAxOSIsInBhdGgiOiJcL2ZcL2NlMWExYmVmLWU5ODctNDI5Ny05ODc4LTMzYjRkZGZiOGYzNlwvZDgwNDV3ay04NTk2MTU2OS1kZjQyLTRjNTgtOWIyYy0xNzZiNjk0YTMyNjkuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ECj4vW0sbl8cniF9GAOJ5Gt_KAe-ugagJfFGWaKGEUY",
    "cat":"Vi"
@@ -2160,8 +2129,7 @@
    "img":"https://3.bp.blogspot.com/-jBfn1tuW-pg/XZVrK7KmSAI/AAAAAAAAOxI/P96t-HUxNJYMfsUoBPWJrZZG4_xC_TNvQCLcBGAsYHQ/w600-h600-p-k-no-nu/vi-lol-art-uhdpaper.com-4K-7.25-wp.thumbnail.jpg",
    "cat":"Vi"
             
-    
-   
+            
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_0.jpg",
    "cat":"Caitlyn"
@@ -2318,9 +2286,8 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xayah_4.jpg",
    "cat":"Xayah"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Rakan_ElderwoodSkin.jpg",
-   "cat":"Xayah"
+            
+            
             
 },{
    "img":"https://i.pinimg.com/474x/73/b3/69/73b36902119fb35d5559981319711c94.jpg",
@@ -2792,17 +2759,8 @@
    "cat":"Morgana"
 },{  
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_17.jpg",
+
    "cat":"Morgana"
-},{  
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Morgana_CovenSkin.jpg",
-   "cat":"Morgana"
-},{  
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Morgana_CovenSkin.jpg",
-   "cat":"Morgana"
-},{  
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Morgana_CovenSkin.jpg",
-   "cat":"Morgana"
-   
 },{
    "img":"https://i.pinimg.com/originals/1a/ac/69/1aac692e386e1c33bc02e41a8d3a4855.jpg",
    "cat":"Morgana"
@@ -3070,13 +3028,7 @@
    "cat":"Ashe"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_17.jpg",
-   "cat":"Ashe"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Ashe_FaeDragonSkin.jpg",
-   "cat":"Ashe"
-   
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Worlds_Legends_Never_Die.jpg",
+
    "cat":"Ashe"
 },{
    "img":"https://i.pinimg.com/originals/6b/51/ce/6b51ce03936398d0817806bca1591eba.jpg",
@@ -3338,14 +3290,8 @@
    "cat":"Cassiopeia"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Cassiopeia_8.jpg",
+
    "cat":"Cassiopeia"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Cassiopeia_SpiritBlossomSkin.jpg",
-   "cat":"Cassiopeia"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Shurima_Hierophant_Of_Zuretta.jpg",
-   "cat":"Cassiopeia"
-   
 },{
    "img":"https://i.pinimg.com/originals/60/f9/f1/60f9f1c7c219ddbfa4b3bfb565dcf718.jpg",
    "cat":"Cassiopeia"
@@ -3398,11 +3344,8 @@
    "cat":"Elise"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Elise_5.jpg",
+
    "cat":"Elise"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/1/12/Elise_BewitchingSkin.jpg",
-   "cat":"Elise"
-   
 },{
    "img":"https://external-preview.redd.it/98DOMypZYcm1k0ziwsWeKhJ3X0UWuJi8QQ_mE_JrWC4.jpg?auto=webp&s=fb13e873233979a37478f8335c87f1f9b7c148b4",
    "cat":"Elise"
@@ -3746,11 +3689,8 @@
    "cat":"Illaoi"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_2.jpg",
+
    "cat":"Illaoi"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Illaoi_CosmicInvokerSkin.jpg",
-   "cat":"Illaoi"
-  
 },{
    "img":"https://i.pinimg.com/originals/46/ea/88/46ea888047dc779fdbd329074190b0a3.jpg",
    "cat":"Illaoi"
@@ -3862,11 +3802,8 @@
    "cat":"Taliyah"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_2.jpg",
+
    "cat":"Taliyah"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Taliyah_PoolPartyLoading.jpg",
-   "cat":"Taliyah"
-   
 },{
    "img":"https://cdnb.artstation.com/p/assets/images/images/008/998/953/large/jason-chan-ss2018-keyart-taliyah03.jpg?1516566966",
    "cat":"Taliyah"
@@ -4186,8 +4123,8 @@
    "cat":"Lissandra"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lissandra_4.jpg",
+
    "cat":"Lissandra"
-   
 },{
    "img":"https://i.pinimg.com/736x/69/53/e0/6953e0a798738587b135dc684a80a6de.jpg",
    "cat":"Lissandra"
@@ -4283,8 +4220,8 @@
    "cat":"Annie"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_12.jpg",
+
    "cat":"Annie"
-   
 },{
    "img":"https://scontent-amt2-1.cdninstagram.com/vp/71919216fd5760a5868fd8d639e2b45a/5E4570F0/t51.2885-15/e35/74361210_387396035473495_1852363178899010621_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjE2MjkyMjY4Nzk2ODkzNDE3OA%3D%3D.2",
    "cat":"Annie"
@@ -4446,9 +4383,8 @@
    "cat":"Sejuani"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_8.jpg",
+
    "cat":"Sejuani"
-   
-   
 },{
    "img":"https://i.pinimg.com/originals/95/28/1f/95281f0864eb3d4cbf74be2ed7ed396c.jpg",
    "cat":"Sejuani"
@@ -4529,18 +4465,8 @@
    "cat":"Sona"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_9.jpg",
+
    "cat":"Sona"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Sona_PsyOpsSkin.jpg",
-   "cat":"Sona"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Sona_One_Last_Show.jpg",
-   "cat":"Sona"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Ionia_Silent_Allies.jpg",
-   "cat":"Sona"
-   
-   
 },{
    "img":"https://i.pinimg.com/originals/5a/bf/06/5abf06d6a05f9e0368064feabc1dc577.png",
    "cat":"Sona"
@@ -4886,12 +4812,8 @@
    "cat":"Janna"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Janna_13.jpg",
+
    "cat":"Janna"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Janna_BattleQueenSkin.jpg",
-   "cat":"Janna"
-   
-   
 },{
    "img":"https://static.zerochan.net/Janna.full.2798974.jpg",
    "cat":"Janna"
@@ -5056,19 +4978,8 @@
    "cat":"Soraka"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Soraka_16.jpg",
+
    "cat":"Soraka"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Soraka_StargazerSkin_WR.jpg",
-   "cat":"Soraka"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Soraka_PrestigeStarGuardianLoading.jpg",
-   "cat":"Soraka"
-   
-   
-  
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Event_Horizon_Ambition%27s_Embrace.jpg",
-   "cat":"Soraka" 
 },{
    "img":"https://66.media.tumblr.com/0ae8b0f45261a276687f8c42fd1bedee/tumblr_pqb6kzaGEO1u9d05lo1_1280.jpg",
    "cat":"Soraka"
@@ -5375,11 +5286,8 @@
    "cat":"Orianna"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_8.jpg",
+
    "cat":"Orianna"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Orianna_PoolPartySkin.jpg",
-   "cat":"Orianna"
-   
 },{
    "img":"https://lol-stats.net/uploads/Nb7crzT5iB3XLcuDi56UG5AXNpeiRlOGlc1XVKDD.jpeg",
    "cat":"Orianna"
@@ -5535,12 +5443,8 @@
    "cat":"Qiyana"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_10.jpg",
+
    "cat":"Qiyana"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Qiyana_BattleQueenSkin.jpg",
-   "cat":"Qiyana"
-   
-   
 },{
    "img":"https://i.pinimg.com/originals/2d/6f/df/2d6fdf392237d437ad87ef9899fe3cb7.jpg",
    "cat":"Qiyana"
@@ -5864,10 +5768,6 @@
 },{
    "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_15.jpg",
    "cat":"Poppy"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Poppy_AstronautCentered.jpg",
-   "cat":"Poppy"
-   
    
 },{
    "img":"https://cdnb.artstation.com/p/assets/images/images/028/486/629/large/qi-jingyan-q.jpg?1594636637",
@@ -6054,18 +5954,8 @@
    "cat":"LeBlanc"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_19.jpg",
+
     "cat":"LeBlanc"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/04NX004T2-full.png",
-    "cat":"LeBlanc"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/LeBlanc_CovenSkin.jpg",
-    "cat":"LeBlanc"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/LeBlanc_Thorns_of_the_Black_Rose.jpg",
-    "cat":"LeBlanc"
-   
-   
 },{
    "img":"https://i.pinimg.com/originals/db/ce/11/dbce1165f522eca74b0a062c69aa057d.jpg",
     "cat":"LeBlanc"
@@ -6310,11 +6200,8 @@
    "cat":"Tristana"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_24.jpg",
+
    "cat":"Tristana"
-},{
-   "img":" https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Tristana_PenguCosplayLoading.jpg",
-   "cat":"Tristana"
-  
 },{
    "img":"https://i.pinimg.com/originals/4d/77/b3/4d77b36d108078d4e35fce8f361a8523.jpg",
    "cat":"Tristana"
@@ -6672,14 +6559,8 @@
    "cat":"Sivir"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_16.jpg",
+
    "cat":"Sivir"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Sivir_OdysseyLoading.jpg",
-   "cat":"Sivir"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Sivir_RiseoftheAscended_Concept_02.png",
-   "cat":"Sivir"
-   
 },{
    "img":"https://pbs.twimg.com/media/DtrdHx7U0AASYkP.jpg:large",
    "cat":"Sivir"
@@ -6874,10 +6755,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_15.jpg",
    "cat":"Nami"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Nami_CosmicDestinySkin.jpg",
-   "cat":"Nami"
-   
     
 },{
    "img":"https://cdnb.artstation.com/p/assets/images/images/032/858/989/large/shawn-lee-x.jpg?1607678188",
@@ -7260,14 +7137,8 @@
    "cat":"Zoe"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_9.jpg",
+
    "cat":"Zoe"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Zoe_ArcanistSkin.jpg",
-   "cat":"Zoe"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Zoe_PrestigeArcanistSkin.jpg",
-   "cat":"Zoe"
-   
 },{
    "img":"https://orig00.deviantart.net/aaa1/f/2017/311/0/d/zoe__the_aspect_of_twilight_by_yuis_drawing-dbt19uj.png",
    "cat":"Zoe"
@@ -7461,25 +7332,8 @@
    "cat":"Leesin"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_28.jpg",
+
    "cat":"Leesin"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Lee_Sin_Casual_Render.png",
-   "cat":"Leesin"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Lee_Sin_AllThatGlitters..._2_Cover.jpg",
-   "cat":"Leesin"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Lee_Sin_AllThatGlitters..._3_Cover.jpg",
-   "cat":"Leesin"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Lee_Sin_AllThatGlitters..._4_Cover.jpg",
-   "cat":"Leesin"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Lee_Sin_StormDragonSkin.jpg",
-   "cat":"Leesin"
-   
-   
-   
 },{
    "img":"https://i.pinimg.com/originals/c3/8b/ce/c38bcefc05dfc14c936fd4dde1bfadb8.png",
    "cat":"Leesin"
@@ -7804,19 +7658,8 @@
    "cat":"Ezreal"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_21.jpg",
+
    "cat":"Ezreal"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Ezreal_Universe_Background.jpg",
-   "cat":"Ezreal"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Ezreal_Casual_Render.png",
-   "cat":"Ezreal"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Ezreal_PsyOpsSkin.jpg",
-   "cat":"Ezreal"
-},{
-   
-   
 },{
    "img":"https://i.pinimg.com/originals/9b/8a/8a/9b8a8a74e6979528428ce1dd6b8ab549.jpg",
    "cat":"Ezreal"
@@ -7937,23 +7780,8 @@
    "cat":"Yasuo"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_18.jpg",
+
    "cat":"Yasuo"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Yasuo_SpiritBlossomSkin.jpg",
-   "cat":"Yasuo"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Yasuo_PrestigeTrueDamageSkin.jpg",
-   "cat":"Yasuo"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Yasuo_Armored_1_Render.png",
-   "cat":"Yasuo"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Yasuo_Armored_3_Render.png",
-   "cat":"Yasuo"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Yasuo_Formal_Render.png",
-   "cat":"Yasuo"
-   
 },{
    "img":"https://i.pinimg.com/564x/3d/be/fd/3dbefdcc462450dc583c8e2339301837.jpg",
    "cat":"Yasuo"
@@ -8094,15 +7922,12 @@
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ekko_11.jpg",
    "cat":"Ekko"
 },{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Ekko_TrickorTreatSkin.jpg",
+   "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_12.jpg",
    "cat":"Ekko"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_19.jpg",
+
    "cat":"Ekko"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Ekko_PulsefireSkin.jpg",
-   "cat":"Ekko"
-   
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/008/998/812/large/jason-chan-ss2018-mood-ekko.jpg?1516566411",
    "cat":"Ekko"
@@ -8538,14 +8363,8 @@
    "cat":"MasterYi"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_17.jpg",
+
    "cat":"MasterYi"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Master_Yi_Unmasked_Render.png",
-   "cat":"MasterYi"
-},{
-   "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_17.jpg",
-   "cat":"MasterYi"
-   
 },{
    "img":"https://pbs.twimg.com/media/DxTOIocXgAUYLsV.jpg:large",
    "cat":"MasterYi"
@@ -8602,17 +8421,8 @@
    "cat":"Swain"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_4.jpg",
+
    "cat":"Swain"
-},{
-   "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_4.jpg",
-   "cat":"Swain"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Swain_HextechSkin.jpg",
-   "cat":"Swain"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Swain_CrystalRoseSkin.jpg",
-   "cat":"Swain"
-   
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/010/349/206/large/guigu-z-.jpg?1523962422",
    "cat":"Swain"
@@ -9010,34 +8820,8 @@
    "cat":"shen"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shen_16.jpg",
+
    "cat":"shen"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Shen_PsyOpsSkin.jpg",
-   "cat":"shen"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Shen_Universe_Background.jpg",
-   "cat":"shen"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Shen_Armored_Render.png",
-   "cat":"shen"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Zed_Comic_4_Cover_2.jpg",
-   "cat":"shen"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Zed_Comic_5_Cover_2.jpg",
-   "cat":"shen zed jhin"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Zed_Comic_3_Cover_2.jpg",
-   "cat":"shen zed jhin"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Zed_Comic_1_Cover_2.jpg",
-   "cat":"shen zed jhin"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Zed_Comic_2_Cover_2.jpg",
-   "cat":"shen zed jhin"
-   
-   
-   
 },{
    "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a17697f-53d4-46a2-9305-2548a1170adc/d9sz93g-7c4d3254-84b2-43d6-a6cd-5787a5ff7f76.jpg/v1/fill/w_900,h_1605,q_75,strp/shen_ghost_sword_by_esmeekramer_d9sz93g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwNSIsInBhdGgiOiJcL2ZcLzJhMTc2OTdmLTUzZDQtNDZhMi05MzA1LTI1NDhhMTE3MGFkY1wvZDlzejkzZy03YzRkMzI1NC04NGIyLTQzZDYtYTZjZC01Nzg3YTVmZjdmNzYuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5xsyLSeWuMjBbNAiZvfAwcjnZe2hf-qmLI92eMMv0z0",
    "cat":"shen"
@@ -9520,15 +9304,8 @@
    "cat":"Ryze"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_11.jpg",
+
    "cat":"Ryze"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Ryze_TriumphantSkin.jpg",
-   "cat":"Ryze"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/027/545/079/large/t-j-geisen-tft-set2-pt2-urgot-v006-insta1.jpg?1591830937",
-   "cat":"Ryze"
-   
-   
 },{
    "img":"https://i.pinimg.com/originals/43/95/49/439549a04cdbd1bb68ae0b7b488f6e43.jpg",
    "cat":"Ryze"
@@ -9552,8 +9329,15 @@
    "cat":"Ryze"
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/012/076/644/medium/seung-eun-kim-r-l-ff-efx.jpg?1532928903",
+
    "cat":"Ryze"
-   
+},{
+   "img":"https://cdna.artstation.com/p/assets/images/images/002/911/726/large/xi-zhang-f7aa0439-057ea60a-65b3ff56-recompress.jpg?1467175710",
+   "cat":"Ryze"
+},{
+   "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/852be59e-a347-4a89-a199-0f4f67045654/d65dgu7-74ef4c47-bdf6-4341-afb5-11f13ccb96ad.png/v1/fill/w_1024,h_1222,strp/ryze_by_kindacreative_d65dgu7-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyMiIsInBhdGgiOiJcL2ZcLzg1MmJlNTllLWEzNDctNGE4OS1hMTk5LTBmNGY2NzA0NTY1NFwvZDY1ZGd1Ny03NGVmNGM0Ny1iZGY2LTQzNDEtYWZiNS0xMWYxM2NjYjk2YWQucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LphU0mp8IwqxcLiT9kh_TBhjPrlwr1r3Fu16-oeWtaM",
+
+   "cat":"Ryze"
    
    
    
@@ -9734,12 +9518,8 @@
    "cat":"Aatrox"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_9.jpg",
+
    "cat":"Aatrox"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Aatrox_OdysseySkin.jpg",
-   "cat":"Aatrox"
-   
-   
 },{
    "img":"https://i.pinimg.com/originals/75/19/d2/7519d2de4ddd35b1ed251de310196259.jpg",
    "cat":"Aatrox"
@@ -9860,20 +9640,17 @@
    "cat":"Olaf"
 },{
    "img":"https://cdn.dribbble.com/users/46562/screenshots/6595008/comic_collection_olaf.jpg",
+
+
+            //
    "cat":"Olaf"
-   
-   
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg",
    "cat":"Ornn"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_1.jpg",
+
    "cat":"Ornn"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Ornn_ElderwoodSkin.jpg",
-   "cat":"Ornn"
-   
-   
 },{
    "img":"https://instagram.fcmn1-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/71965739_179876556394745_3730259153444953566_n.jpg?_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=UQejVVGQyq4AX863FoF&oh=5387e0fe7b927ffae9f06da88743a501&oe=5EAFDE62",
    "cat":"Ornn"
@@ -9924,11 +9701,8 @@
    "cat":"Nocturne"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nocturne_7.jpg",
+
    "cat":"Nocturne"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Nocturne_HextechSkin.jpg",
-   "cat":"Nocturne"
-   
 },{
    "img":"https://i.pinimg.com/originals/4a/48/8a/4a488a699670e44f563afa5c4ae86978.jpg",
    "cat":"Nocturne"
@@ -10059,12 +9833,8 @@
    "cat":"Vladimir"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_14.jpg",
+
    "cat":"Vladimir"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Vladimir_CosmicDevourerSkin.jpg",
-   "cat":"Vladimir"
-   
-   
 },{
    "img":"https://i.pinimg.com/originals/f6/94/b8/f694b803a21c5b0eb6820762c8079071.jpg",
    "cat":"Vladimir"
@@ -10719,11 +10489,8 @@
    "cat":"Bard"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Bard_5.jpg",
+
    "cat":"Bard"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Bard_AstronautSkin.jpg",
-   "cat":"Bard"
-   
 },{
    "img":"https://wallup.net/wp-content/uploads/2016/01/274270-League_of_Legends-Support-bard.jpg",
    "cat":"Bard"
@@ -10833,19 +10600,15 @@
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_6.jpg",
    "cat":"Gangplank"
 },{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Gangplank_CaptainSkin.jpg",
+   "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_7.jpg",
    "cat":"Gangplank"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_8.jpg",
    "cat":"Gangplank"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_14.jpg",
+
    "cat":"Gangplank"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Gangplank_FPXLoading.jpg",
-   "cat":"gangplank"
-   
-   
 },{
    "img":"https://66.media.tumblr.com/edca4a27ef8b2138677d541894b3c246/e8876a13abc7c31d-db/s1280x1920/132126115f053504d6d49e25e1667b2eccfa2da9.jpg",
    "cat":"Gangplank"
@@ -10872,24 +10635,6 @@
    "cat":"Gangplank"
 },{
    "img":"https://i.pinimg.com/originals/30/de/1d/30de1de8c60bc4df25021a0209f34f7d.jpg",
-   "cat":"Gangplank"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/026/371/895/4k/sixmorevodka-studio-gangplank-level-02.jpg?1588607575",
-   "cat":"Gangplank"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/009/232/902/4k/rafael-zanchetin-gangplank.jpg?1517847340",
-   "cat":"Gangplank"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/002/844/691/large/thuan-nguyen-minh-duong-final-1-pts.jpg?1466381592",
-   "cat":"Gangplank"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/027/784/670/large/alejandro-m-g-magnozz-gangplank-lor.jpg?1592526289",
-   "cat":"Gangplank"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/024/446/796/large/bruce-chen-2020-2-5-3.jpg?1582460844",
-   "cat":"Gangplank"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/034/717/407/large/-4.jpg?1613034587",
    "cat":"Gangplank"
    
    
@@ -10979,11 +10724,8 @@
    "cat":"Teemo"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_18.jpg",
+
    "cat":"Teemo"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Teemo_SpiritBlossomSkin.jpg",
-   "cat":"Teemo"
-   
 },{
    "img":"https://pbs.twimg.com/media/DcM8T1iXcAE545h.jpg:large",
    "cat":"Teemo"
@@ -11073,9 +10815,6 @@
    "cat":"Hecarim"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_8.jpg",
-   "cat":"Hecarim"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Hecarim_CosmicChargerSkin.jpg",
    "cat":"Hecarim"
    
    
@@ -11202,17 +10941,8 @@
    "cat":"Kindred"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kindred_2.jpg",
+
    "cat":"Kindred"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Kindred_SpiritBlossomSkin.jpg",
-   "cat":"Kindred"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Kindred_Promo_1.png",
-   "cat":"Kindred"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Forest_For_The_Trees.png",
-   "cat":"Kindred"
-   
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/001/220/290/large/mireia-garcia-kindred.jpg?1442436258",
    "cat":"Kindred"
@@ -11432,12 +11162,8 @@
    "cat":"Brand"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_7.jpg",
+
    "cat":"Brand"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Brand_EternalDragonSkin.jpg",
-   "cat":"Brand"
-   
-   
 },{
    "img":"https://wallpapersmug.com/download/1080x1920/b1b103/brand-league-of-legends-artwork.jpg",
    "cat":"Brand"
@@ -11629,12 +11355,8 @@
    "cat":"Azir"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Azir_4.jpg",
+
    "cat":"Azir"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Azir_ElderwoodSkin.jpg",
-   "cat":"Azir"
-   
-   
 },{
    "img":"https://lol-stats.net/uploads/Nl26gPmyeThl9hVT4FqhFAKhWhIlLo4zcNS2oIfH.jpeg",
    "cat":"Azir"
@@ -11838,11 +11560,8 @@
    "cat":"Urgot"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Urgot_9.jpg",
+
    "cat":"Urgot"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/8/8a/Urgot_PajamaGuardianCosplaySkin.jpg",
-   "cat":"Urgot"
-   
 },{
    "img":"https://pbs.twimg.com/media/Dkf9BsZXcAE8TeR.jpg:large",
    "cat":"Urgot"
@@ -11851,30 +11570,6 @@
    "cat":"Urgot"
 },{
    "img":"https://i.redd.it/0k0tng9gwq941.png",
-   "cat":"Urgot"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/023/411/532/large/romain-chassefiere-04.jpg?1579112787",
-   "cat":"Urgot"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/023/411/533/large/romain-chassefiere-05.jpg?1579112790",
-   "cat":"Urgot"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/023/411/527/large/romain-chassefiere-02.jpg?1579112783",
-   "cat":"Urgot"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/025/822/643/large/gi-taek-seo-23.jpg?1587036378",
-   "cat":"Urgot"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/014/753/500/large/marcos-uchima-urgot-sketch-2.jpg?1545312016",
-   "cat":"Urgot"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/006/922/665/large/peihao-wang-za1.jpg?1502284014",
-   "cat":"Urgot"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/030/351/334/large/tx-wang-20200915004441.jpg?1600340421",
-   "cat":"Urgot"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/027/545/079/large/t-j-geisen-tft-set2-pt2-urgot-v006-insta1.jpg?1591830937",
    "cat":"Urgot"
    
    
@@ -11887,11 +11582,8 @@
    "cat":"AurelionSol"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/AurelionSol_2.jpg",
+
    "cat":"AurelionSol"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Aurelion_Sol_StormDragonSkin.jpg",
-   "cat":"AurelionSol"
-   
 },{
    "img":"https://cdna.artstation.com/p/assets/images/images/002/220/786/large/funx-.jpg?1458877097",
    "cat":"AurelionSol"
@@ -11957,11 +11649,8 @@
    "cat":"Yorick"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_4.jpg",
+
    "cat":"Yorick"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Yorick_ResistanceSkin.jpg",
-   "cat":"Yorick"
-   
 },{
    "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1931c8d0-ca1d-4cd3-981f-2e59f227ff16/dbfhvez-ebe4a178-10c8-4994-87cb-2f576a670f88.png/v1/fill/w_1280,h_959,q_80,strp/yorick_by_raven_blood_13_dbfhvez-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTU5IiwicGF0aCI6IlwvZlwvMTkzMWM4ZDAtY2ExZC00Y2QzLTk4MWYtMmU1OWYyMjdmZjE2XC9kYmZodmV6LWViZTRhMTc4LTEwYzgtNDk5NC04N2NiLTJmNTc2YTY3MGY4OC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NkUQzyW6ypME42I03o4glH5arj0Nt5J3But0y2Em6Nk",
    "cat":"Yorick"
@@ -12099,22 +11788,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/RekSai_2.jpg",
    "cat":"RekSai"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Rek%27Sai_BlackfrostLoading.jpg",
-   "cat":"RekSai"
-   
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/036/097/466/large/sebastian-cavazzoli-1.jpg?1616706245",
-   "cat":"RekSai"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/038/937/961/large/william-bao-rek-sai.jpg?1624480626",
-   "cat":"RekSai"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/013/880/000/large/-xs9tith-w-ahilh08oi-m49.jpg?1541499333",
-   "cat":"RekSai"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/018/787/222/large/-2.jpg?1560733621",
-   "cat":"RekSai"
    
    
    
@@ -12129,9 +11802,6 @@
    "cat":"Zac"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zac_6.jpg",
-   "cat":"Zac"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Zac_BattlecastLoading.jpg",
    "cat":"Zac"
    
    
@@ -12163,9 +11833,7 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shaco_8.jpg",
    "cat":"Shaco"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Shaco_ArcanistSkin.jpg",
-   "cat":"Shaco"
+   
    
    
 },{
@@ -12215,11 +11883,8 @@
    "cat":"Fizz"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_15.jpg",
+
    "cat":"Fizz"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Fizz_LittleDevilSkin.jpg",
-   "cat":"Fizz"
-   
 },{
    "img":"https://media.comicbook.com/2017/09/pokemon-gyarados-1019743.jpg",
    "cat":"Fizz"
@@ -12253,19 +11918,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_16.jpg",
    "cat":"Malphite"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Malphite_OldGodCentered.jpg",
-   "cat":"Malphite"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Malphite_PrestigeDarkStarSkin.jpg",
-   "cat":"Malphite"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Malphite_FPXSkin.jpg",
-   "cat":"Malphite"
-   
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/006/567/698/large/mehmet-ozen-mehmet-ozen-league-of-legends-art-lol-illustration.jpg?1499604987",
-   "cat":"Malphite"
    
    
 },{
@@ -12288,9 +11940,6 @@
    "cat":"Heimerdinger"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_6.jpg",
-   "cat":"Heimerdinger"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Heimerdinger_PoolPartyCentered.jpg",
    "cat":"Heimerdinger"
    
    
@@ -12315,9 +11964,7 @@
    "cat":"Kassadin"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kassadin_6.jpg",
-   "cat":"Kassadin"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Kassadin_HextechCentered.jpg",
+            //
    "cat":"Kassadin"
    
    
@@ -12396,28 +12043,6 @@
    "cat":"Warwick"
    
    
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/015/985/364/large/t-j-geisen-warwick-artstation-v001.jpg?1550461259",
-   "cat":"Warwick"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/016/049/215/large/t-j-geisen-riot-warwick-artstation-v001.jpg?1550695053",
-   "cat":"Warwick"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/004/494/232/4k/nick-de-spain-warwick-riot-page-1.jpg?1484075592",
-   "cat":"Warwick"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/009/481/616/large/qiang-zhou-1920.jpg?1519238585",
-   "cat":"Warwick"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/025/491/701/large/guste-dominyka-ruplyte-warwick-x-singed.jpg?1585953891",
-   "cat":"Warwick singed"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/039/124/765/large/federico-segovia-bluewolfartista-league-of-legends-school-warwick-redraw.jpg?1625005284",
-   "cat":"Warwick"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/004/482/899/large/mitchell-malloy-promo-warwick-teaser1-image03.jpg?1484025207",
-   "cat":"Warwick singed"
-   
    
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Maokai_0.jpg",
@@ -12464,9 +12089,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_5.jpg",
    "cat":"Jayce"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Jayce_ResistanceSkin.jpg",
-   "cat":"Jayce"
    
    
    
@@ -12487,9 +12109,6 @@
    "cat":"KhaZix"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_11.jpg",
-   "cat":"KhaZix"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Kha%27Zix_OdysseySkin.jpg",
    "cat":"KhaZix"
    
    
@@ -12697,9 +12316,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_4.jpg",
    "cat":"Viktor"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/6/61/Viktor_PsyOpsSkin.jpg",
-   "cat":"Viktor"
    
    
    
@@ -12754,9 +12370,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kennen_7.jpg",
    "cat":"Kennen"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Kennen_Between_Light_and_Shadows.jpg",
-   "cat":"Kennen"
    
    
    
@@ -12783,14 +12396,8 @@
    "cat":"Karthus"
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_4.jpg",
+
    "cat":"Karthus"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Karthus_InfernalSkin.jpg",
-   "cat":"Karthus"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Karthus_InfernalCentered.jpg",
-   "cat":"Karthus"
-   
 },{
    "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ab7d0da-b803-414e-bdc8-4ca3eccfac06/d99fdd1-4ef5a2cf-3c89-4d43-a279-f206ad28cd33.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBhYjdkMGRhLWI4MDMtNDE0ZS1iZGM4LTRjYTNlY2NmYWMwNlwvZDk5ZmRkMS00ZWY1YTJjZi0zYzg5LTRkNDMtYTI3OS1mMjA2YWQyOGNkMzMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XqbElNOZEcerB-hdwyn2YYeQgsg7rhi5A9EWXLPtKgk",
    "cat":"Karthus"
@@ -12848,26 +12455,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Volibear_5.jpg",
    "cat":"Volibear"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Volibear_ThousandPiercedBearSkin.jpg",
-   "cat":"Volibear"
-   
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/036/245/044/large/zoe-zhu-zoe-zhu-12914937-d4bf-4c0d-a435-3ccda85e8d17-1.jpg?1617124032",
-   "cat":"Volibear"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/030/008/906/large/g-g-1111.jpg?1599315431",
-   "cat":"Volibear"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/027/248/286/large/martin-bulteau-final-render.jpg?1591012271",
-   "cat":"Volibear"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/036/332/411/large/nina-k-enarten-9.jpg?1617370188",
-   "cat":"Volibear"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/035/784/159/large/-asset.jpg?1615897453",
-   "cat":"Volibear"
-   
    
    
    
@@ -12937,34 +12524,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_9.jpg",
    "cat":"Tryndamere"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Tryndamere_BloodMoonSkin.jpg",
-   "cat":"Tryndamere"
-   
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/015/292/791/large/song-nan-li-tryndamere-and-teemo.jpg?1547812221",
-   "cat":"Tryndamere"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/031/002/962/large/tina-wei-queen-ashe-and-king-tryndamere-final.jpg?1602280624",
-   "cat":"Tryndamere ashe"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/001/968/722/large/marie-magny-ashe-and-12-fixed-version-low.jpg?1455312145",
-   "cat":"Tryndamere ashe"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/009/532/512/large/terry-ling-112.jpg?1519532976",
-   "cat":"Tryndamere"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/012/073/245/large/jiwon-kim-frozen-lover-20150906.jpg?1532905987",
-   "cat":"Tryndamere ashe"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/010/764/425/large/jessica-ong-tryndamere-final-1.jpg?1526096202",
-   "cat":"Tryndamere"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/039/552/308/large/-img-1624680003871b53ccb619e6e337c18f2705ff5007051.jpg?1626238339",
-   "cat":"Tryndamere"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Tryndamere_GloriousSkin_WR.jpg",
-   "cat":"Tryndamere"
    
    
    
@@ -13031,9 +12590,7 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_8.jpg",
    "cat":"Anivia"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Anivia_CosmicFlightSkin.jpg",
-   "cat":"Anivia"
+   
    
    
 },{
@@ -13102,9 +12659,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_23.jpg",
    "cat":"Amumu"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Amumu_PumpkinPrinceLoading.jpg",
-   "cat":"Amumu"
    
    
    
@@ -13138,9 +12692,7 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_9.jpg",
    "cat":"Singed"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Singed_ResistanceSkin.jpg",
-   "cat":"Singed"
+   
    
    
 },{
@@ -13215,25 +12767,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gnar_14.jpg",
    "cat":"Gnar"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Gnar_AstronautLoading.jpg",
-   "cat":"Gnar"
-   
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/033/844/073/4k/felix-donadio-recherche-couleur14.jpg?1610710258",
-   "cat":"Gnar"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/001/781/395/large/jasper-sandner-megagnar-splash-jaspersandner-copy.jpg?1452639924",
-   "cat":"Gnar"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/005/291/477/large/melissa-yabumoto-league-of-legends-gnarrr-by-ffsade-d7vyvqz.jpg?1489978106",
-   "cat":"Gnar"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/002/808/924/large/braito-brait-art-gnar-fanart-e3.jpg?1485219984",
-   "cat":"Gnar"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/009/168/456/large/natalia-blank-gnar-rcc-2.jpg?1517494649",
-   "cat":"Gnar"
    
    
 },{
@@ -13251,32 +12784,7 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Taric_4.jpg",
    "cat":"Taric"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Taric_TaricLuminshieldSkin.jpg",
-   "cat":"Taric"
    
-   
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/030/093/865/large/koala-ko-321-2.jpg?1599588038",
-   "cat":"Taric"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/030/579/498/4k/sixmorevodka-studio-taric-level-01.jpg?1601023585",
-   "cat":"Taric"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/032/625/103/4k/sixmorevodka-studio-taric-level-02.jpg?1606988493",
-   "cat":"Taric"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/039/551/645/4k/kudos-productions-pool-party-taric-lv2.jpg?1626235767",
-   "cat":"Taric"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/039/551/441/4k/kudos-productions-pool-party-taric-lv1.jpg?1626234973",
-   "cat":"Taric"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/004/130/348/large/braito-varus-buscacorazones.jpg?1485218822",
-   "cat":"Taric"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/002/911/783/large/xi-zhang-1290.jpg?1467176754",
-   "cat":"Taric"
    
    
 },{
@@ -13317,29 +12825,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Trundle_5.jpg",
    "cat":"Trundle"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Trundle_DragonslayerSkin.jpg",
-   "cat":"Trundle"
-   
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/022/061/425/large/lucas-bernachea-ldaustinbrush.jpg?1573984061",
-   "cat":"Trundle"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/022/040/237/large/claudio-tumiati-trundle-fullbody-5.jpg?1621276360",
-   "cat":"Trundle"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/002/824/305/large/light-gyzj-xlgo.jpg?1466125433",
-   "cat":"Trundle"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/030/109/803/large/logan-.jpg?1599639982",
-   "cat":"Trundle"
-},{
-   "img":"https://cdna.artstation.com/p/assets/images/images/012/042/076/large/nicolas-collings-03.jpg?1532709630",
-   "cat":"Trundle"
-},{
-   "img":"https://cdnb.artstation.com/p/assets/images/images/017/823/031/large/red_-name-.jpg?1557454840",
-   "cat":"Trundle"
-   
    
    
    
@@ -13370,12 +12855,6 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ziggs_14.jpg",
    "cat":"Ziggs"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Ziggs_HextechSkin.jpg",
-   "cat":"Ziggs"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Ziggs_Bombs_A_Tribute.jpg",
-   "cat":"Ziggs"
    
    
 },{
@@ -13387,9 +12866,7 @@
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ivern_2.jpg",
    "cat":"Ivern"
-},{
-   "img":"https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Ivern_OldGodSkin.jpg",
-   "cat":"Ivern"
+   
    
 },{
    "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_0.jpg",
@@ -13471,4 +12948,4 @@
    "img":"https://cdnb.artstation.com/p/assets/images/images/032/859/001/large/shawn-lee-.jpg?1607678215",
    "cat":"Skarner"
 }
-]}           
+]}  
