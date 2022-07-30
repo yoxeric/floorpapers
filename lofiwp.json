@@ -141,8 +141,8 @@
    "img":"https://i.pinimg.com/originals/98/6b/08/986b08d67ad246cdb4a915668c35628b.jpg",
   "cat":"lofi"
 },{
-   "img":"https://i.pinimg.com/originals/2a/ec/44/2aec44c4dc135353bafb3fd6b1ee5d29.jpg",
-  "cat":"lofi"
+   "img":"https://i.pinimg.com/originals/32/28/5a/32285af3e95f03f5a49aa18c65df9822.jpg",
+   "cat":"lofi"
 },{
    "img":"https://i.pinimg.com/originals/42/bb/f7/42bbf79cc62d5508d0ae09578cbda928.png",
   "cat":"lofi"
@@ -316,13 +316,10 @@
   "cat":"lofi"
 },{
    "img":"https://i.pinimg.com/originals/f4/4a/df/f44adf466ce4716ef04edd6014182757.jpg",
-  "cat":"lofi"
+  "cat":"lofi art"
 },{
    "img":"https://i.pinimg.com/originals/65/b1/29/65b129ee07853e62cdac3415c253a82f.jpg",
-  "cat":"lofi"
-},{
-   "img":"https://i.pinimg.com/originals/b5/07/5d/b5075df5c9ac3308897faaadcea399fa.jpg",
-  "cat":"lofi"
+  "cat":"lofi art"
 },{
    "img":"https://i.pinimg.com/originals/e0/14/9a/e0149a4d4100484addbc3de70380d08b.png",
   "cat":"lofi"
@@ -331,7 +328,7 @@
   "cat":"lofi"
 },{
    "img":"https://i.pinimg.com/originals/1e/bc/e2/1ebce2a2b9665ba79d62a981fbb35609.png",
-  "cat":"lofi"
+  "cat":"lofi art"
 },{
    "img":"https://i.pinimg.com/originals/16/8a/95/168a95f823164ee4f55469e0ef32f477.jpg",
   "cat":"lofi"
@@ -381,11 +378,42 @@
    "img":"https://i.pinimg.com/originals/63/b9/5e/63b95ea7912238bc505cea4c19ab39ac.png",
   "cat":"lofi"
 },{
+   "img":"https://i.pinimg.com/564x/d0/ff/b8/d0ffb880b2904aaed5f26ea06c73f51a.jpg",
+  "cat":"lofi"
+},{
+   "img":"https://i.pinimg.com/564x/05/86/e2/0586e214e9ed7bd9a85c9b80d68863e2.jpg",
+  "cat":"lofi"
+   
+   
+},{
    "img":"https://i.pinimg.com/originals/c4/d8/66/c4d866988a5ae4760147e6531df0c952.png",
   "cat":"lofi"
 },{
    "img":"https://i.pinimg.com/originals/49/52/fb/4952fbeefb21f483a36ee60c16259d26.png",
   "cat":"lofi"
+},{
+   "img":"https://i.pinimg.com/564x/15/08/73/1508731c610711d018f4695174385771.jpg",
+  "cat":"lofi"
+},{
+   "img":"https://i.pinimg.com/736x/d7/72/8c/d7728c1ec44d0278d28302de4fd67726.jpg",
+  "cat":"lofi"
+},{
+   "img":"https://i.pinimg.com/564x/76/f2/c4/76f2c46cd4d689669aacd47f67e94cbc.jpg",
+  "cat":"lofi"
+},{
+   "img":"https://i.pinimg.com/564x/9a/77/57/9a77577955cd196606db702cd3c7ddf3.jpg",
+  "cat":"lofi"
+},{
+   "img":"https://i.pinimg.com/564x/a3/49/ad/a349adf89299a8e48950c74b22ed57c5.jpg",
+  "cat":"lofi"
+},{
+   "img":"https://i.pinimg.com/564x/f8/fa/9f/f8fa9f6361e7a90f1065f2d39d642d65.jpg",
+  "cat":"lofi sky"
+},{
+   "img":"https://i.pinimg.com/564x/83/a6/f4/83a6f4f305ea727ad1c66482b14bede1.jpg",
+  "cat":"lofi"
+   
+   
   
 },{
    "img":"https://i.pinimg.com/originals/6c/1e/11/6c1e1133bbade8321b52bdfaf5d8656c.jpg",
@@ -887,7 +915,13 @@
    "cat":"sky"    
 },{
    "img":"https://i.pinimg.com/564x/d1/c8/28/d1c82880c72b55d1862ccdd54acc12ef.jpg",
-   "cat":"sky"     
+   "cat":"sky"    
+},{
+   "img":"https://i.pinimg.com/564x/6f/d4/33/6fd433dbe5df049e16d2d4ca82492a89.jpg",
+   "cat":"sky"  
+},{
+   "img":"https://i.pinimg.com/564x/8d/a6/10/8da6108536641b13dc29c70abdc6edcc.jpg",
+   "cat":"sky"  
   
   
 },{
@@ -1017,8 +1051,8 @@
    "img":"https://i.pinimg.com/originals/3e/42/ef/3e42ef9a8e2384d42b7eaee045b6494d.jpg",
    "cat":"quote"
 },{
-   "img":"https://i.pinimg.com/originals/32/28/5a/32285af3e95f03f5a49aa18c65df9822.jpg",
-   "cat":"quote lofi"
+   "img":"https://i.pinimg.com/originals/2a/ec/44/2aec44c4dc135353bafb3fd6b1ee5d29.jpg",
+  "cat":"lofi quote"
 },{
    "img":"https://i.pinimg.com/originals/5c/f4/e2/5cf4e269bbc88c8fbca05b20dc9a83de.jpg",
    "cat":"quote"
@@ -1396,6 +1430,39 @@
 },{
    "img":"https://i.pinimg.com/564x/ff/60/7c/ff607c68f2457f93a9a2c125b34ad9dc.jpg",
    "cat":"art"  
+},{
+   "img":"https://i.pinimg.com/564x/74/c9/d9/74c9d9819675c409a5113f9ff06722c2.jpg",
+   "cat":"art"  
+},{
+   "img":"https://i.pinimg.com/564x/23/1f/3d/231f3db75a801430601963fb2cd7a803.jpg",
+   "cat":"art"  
+},{
+   "img":"https://i.pinimg.com/564x/69/ba/8b/69ba8bcc41adf78dd9e242cc6d22ae26.jpg",
+   "cat":"art"  
+},{
+   "img":"https://i.pinimg.com/564x/e6/6f/83/e66f8302f63f26dc2558e688a749100b.jpg",
+   "cat":"art"   
+},{
+   "img":"https://i.pinimg.com/564x/cb/64/35/cb64354d21fb25acb8f835625ecc0af5.jpg",
+   "cat":"art"   
+},{
+   "img":"https://i.pinimg.com/564x/11/2a/6a/112a6a228765da8adc88c8fc9df5dd61.jpg",
+   "cat":"art"   
+},{
+   "img":"https://i.pinimg.com/564x/f4/cc/84/f4cc8465cac21646a3eeca568fc5559b.jpg",
+   "cat":"art"   
+},{
+   "img":"https://i.pinimg.com/564x/86/51/16/86511639831b70d00b09cc976833cbf0.jpg",
+   "cat":"art"   
+},{
+   "img":"https://i.pinimg.com/564x/dc/a1/95/dca195aa7f6de0ea25a0fac3a8b2378c.jpg",
+   "cat":"art"   
+},{
+   "img":"https://i.pinimg.com/736x/fa/91/d9/fa91d985527c52b85561ea583dd30338.jpg",
+   "cat":"art"   
+},{
+   "img":"https://i.pinimg.com/564x/7d/b0/22/7db02245fbdaf68fbcdb526ff4d68e38.jpg",
+   "cat":"art water"   
 
   
   
@@ -1435,7 +1502,32 @@
 },{
    "img":"https://i.pinimg.com/originals/fe/45/81/fe4581d4b4534b3830a00c9443a242a8.jpg",
    "cat":"space"
-  
+},{
+   "img":"https://i.pinimg.com/564x/69/6c/4b/696c4b386bd7bef1c9420d0e1ee90469.jpg",
+   "cat":"space"
+},{
+   "img":"https://i.pinimg.com/564x/0f/4d/1a/0f4d1a1ce3d5f28c5cd360aa421d18a4.jpg",
+   "cat":"space"
+},{
+   "img":"https://i.pinimg.com/564x/91/2e/e7/912ee79b700bd2fbc9b41bd366df6809.jpg",
+   "cat":"space"
+},{
+   "img":"https://i.pinimg.com/564x/8f/30/b4/8f30b4d413e382a98f951b3af57b145e.jpg",
+   "cat":"space"
+},{
+   "img":"https://i.pinimg.com/564x/dc/fb/1f/dcfb1f0a9381a1677f2bcbf1a4d4b35d.jpg",
+   "cat":"space"
+},{
+   "img":"https://i.pinimg.com/564x/72/59/8a/72598ae08b18d9b1357a6f643a651898.jpg",
+   "cat":"space"
+},{
+   "img":"https://i.pinimg.com/564x/7a/b5/30/7ab530d9626532a14c1b3e03165e0248.jpg",
+   "cat":"space"
+},{
+   "img":"https://i.pinimg.com/564x/aa/91/5d/aa915d706a98f6febf6bacb970a6eeae.jpg",
+   "cat":"space"
+   
+   
   
 },{
    "img":"https://i.pinimg.com/originals/5e/fe/14/5efe142b91493b20c946bb7a46432d4a.jpg",
@@ -1502,5 +1594,35 @@
    "cat":"water"
 },{
    "img":"https://i.pinimg.com/564x/77/cc/bc/77ccbcfc73b3dbffc8952fcb34683fc3.jpg",
+  "cat":"water"
+},{
+   "img":"https://i.pinimg.com/564x/19/85/d2/1985d27befc267001f35ab363b21247c.jpg",
+  "cat":"water sky"
+},{
+   "img":"https://i.pinimg.com/564x/f8/5b/aa/f85baa7ba7b9eb1e6af477f8be249e9a.jpg",
+  "cat":"water"
+},{
+   "img":"https://i.pinimg.com/564x/ba/c2/5d/bac25dd6621ef9e08b12c0127ce6ddd5.jpg",
+  "cat":"water"
+},{
+   "img":"https://i.pinimg.com/564x/47/a2/7e/47a27eeb51334170e74d8e91b782e26c.jpg",
+  "cat":"water"
+},{
+   "img":"https://i.pinimg.com/564x/af/1d/be/af1dbefad75742c090b6a622827a5a4f.jpg",
+  "cat":"water"
+},{
+   "img":"https://i.pinimg.com/564x/7c/1b/cb/7c1bcb0e14ccba41d488b4a398022f3f.jpg",
+  "cat":"water"
+},{
+   "img":"https://i.pinimg.com/564x/21/85/01/2185018fbbb33e47da603ad350adb6d3.jpg",
+  "cat":"water"
+},{
+   "img":"https://i.pinimg.com/564x/a2/d4/1e/a2d41ec421d5de08bd841b4c63ef7293.jpg",
+  "cat":"water"
+},{
+   "img":"https://i.pinimg.com/564x/54/8b/6a/548b6a51fc5cfa62b090fab1dbaa9571.jpg",
+  "cat":"water"
+},{
+   "img":"https://i.pinimg.com/564x/51/9a/6c/519a6cd1f82af5c74ba5298aab523196.jpg",
   "cat":"water"
 }]}
