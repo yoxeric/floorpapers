@@ -2,6 +2,9 @@
   "sources":[
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/wallofi.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/wallofi/",
   ],
@@ -9,6 +12,9 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/1d.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/1d/"
   ],
@@ -16,6 +22,9 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/2d.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/2d/"
   ],
@@ -23,6 +32,9 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/3d.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/3d/"
   ],
@@ -30,6 +42,9 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/64.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/64/"
   ],
@@ -37,13 +52,19 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/easthetic-images.json"
+  ],
   "urls": [
-    "https://www.pinterest.com/yoxeric/^easthetic_images/"
+    "https://www.pinterest.com/yoxeric/easthetic-images/"
   ],
   "cat": "easthetic"
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/idk.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/idk/"
   ],
@@ -51,13 +72,19 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/painting.json"
+  ],
   "urls": [
-    "https://www.pinterest.com/yoxeric/^painting/"
+    "https://www.pinterest.com/yoxeric/painting/"
   ],
   "cat": "painting"
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/architecture.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/architecture/"
   ],
@@ -65,20 +92,29 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/rally.json"
+  ],
   "urls": [
-    "https://www.pinterest.com/yoxeric/rally_b/"
+    "https://www.pinterest.com/yoxeric/rally-b/"
   ],
   "cat": "rally"
 },
 {
   "img":"",
-  "urls": [
-    "https://www.pinterest.com/yoxeric/league_of_wallpaper/"
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/league.json"
   ],
-  "cat": "League"
+  "urls": [
+    "https://www.pinterest.com/yoxeric/league-of-wallpaper/"
+  ],
+  "cat": "League of legends"
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/tech.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/tech/"
   ],
@@ -86,6 +122,9 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/y2k.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/y2k/"
   ],
@@ -93,6 +132,9 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/space.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/space/"
   ],
@@ -100,6 +142,9 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/machines.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/machines/"
   ],
@@ -107,6 +152,9 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/eyemaze.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/eyemaze/"
   ],
@@ -114,6 +162,9 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/bug.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/bug/"
   ],
@@ -121,17 +172,73 @@
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/gjam.json"
+  ],
   "urls": [
-    "https://www.pinterest.com/yoxeric/^gjam/"
+    "https://www.pinterest.com/yoxeric/gjam/"
   ],
   "cat": "quote"
 },
 {
   "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/memes.json"
+  ],
   "urls": [
     "https://www.pinterest.com/yoxeric/memes/"
   ],
   "cat": "meme"
+},
+{
+  "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/east-fantasy.json"
+  ],
+  "urls": [
+    "https://www.pinterest.com/yoxeric/east-fantasy/"
+  ],
+  "cat": "east-fantasy"
+},
+{
+  "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/poster.json"
+  ],
+  "urls": [
+    "https://www.pinterest.com/yoxeric/poster/"
+  ],
+  "cat": "poster"
+},
+{
+  "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/lowpoly.json"
+  ],
+  "urls": [
+    "https://www.pinterest.com/yoxeric/lowpoly/"
+  ],
+  "cat": "lowpoly"
+},
+{
+  "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/ethereal.json"
+  ],
+  "urls": [
+    "https://www.pinterest.com/yoxeric/ethereal/"
+  ],
+  "cat": "ethereal"
+},
+{
+  "img":"",
+  "list": [
+   "https://raw.githubusercontent.com/yoxeric/floorpapers/refs/heads/main/cats/salam.json"
+  ],
+  "urls": [
+    "https://www.pinterest.com/yoxeric/islamic-art/"
+  ],
+  "cat": "salam"
 },
 ]
 }
